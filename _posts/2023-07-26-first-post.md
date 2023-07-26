@@ -1,0 +1,3 @@
+title: "first-post"
+date: 2023-07-26
+so today I've created my first post...
