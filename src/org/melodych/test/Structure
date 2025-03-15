@@ -1,0 +1,11 @@
+JFrame frm
+    - JPanel mainPanel - (CardLayout)
+        - JPanel startPanel (FlowLayout)
+        - many: JPanel currentPanel (in ArrayList<JPanel> middlePanels, BorderLayout)
+            -northInCurrentPanel - quest
+            -centerInCurrentPanel - answers
+            -southInCurrentPanel - two buttons
+        - JScrollPane
+            -resultPane (JTable)
+
+
